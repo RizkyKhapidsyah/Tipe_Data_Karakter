@@ -31,9 +31,9 @@ void Garis(
 int main()
 {
 	Garis(L_Strp, L_NL, 39, 0);
-		printf("Memory dari tipe data Char           : %i%s", sizeof(char), L_NL);
-		printf("Memory dari tipe data Unsigned Char  : %i%s", sizeof(unsigned char), L_NL);
-		printf("Memory dari tipe data Signed Char    : %i%s", sizeof(signed char), L_NL);
+	printf("Memory dari tipe data Char           : %i%s", sizeof(char), L_NL);
+	printf("Memory dari tipe data Unsigned Char  : %i%s", sizeof(unsigned char), L_NL);
+	printf("Memory dari tipe data Signed Char    : %i%s", sizeof(signed char), L_NL);
 	Garis(L_Strp, L_NL, 39, 0);
 
 	_getch();
