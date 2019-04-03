@@ -10,7 +10,6 @@
 #define L_NL "\n"
 
 int i; 
-char P[3];
 
 void Garis(
 	char *Param1, char *Param2, 
